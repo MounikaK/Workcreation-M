@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="TestNG suite">
+<test name="Regression Test Result">
+<classes>
+<class name="testcases.Work_creation">
+</class>
+</classes>
+</test>
+</suite>
