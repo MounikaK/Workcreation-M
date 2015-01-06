@@ -25,7 +25,7 @@ import com.selenium.actions.Signin;
 
 public class Work_creation {
 	public static WebDriver driver;
-	String Wname="work2";
+	public static String Wname="work2";
 	WebElement ele;
 	int num;
 	boolean flag=false;
